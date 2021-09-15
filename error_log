@@ -1,0 +1,4 @@
+[02-Jan-2021 09:14:13 UTC] PHP Warning:  require(/home/ysb5nvstyita/public_html/stocks/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ysb5nvstyita/public_html/stocks/index.php on line 24
+[02-Jan-2021 09:14:13 UTC] PHP Fatal error:  require(): Failed opening required '/home/ysb5nvstyita/public_html/stocks/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ysb5nvstyita/public_html/stocks/index.php on line 24
+[07-Jan-2021 18:42:12 UTC] PHP Fatal error:  Can't use method return value in write context in /home/ysb5nvstyita/public_html/stocks/storage/framework/views/260c280c847e27aa54459be7ec92dd05aaadf1ec.php on line 122
+[15-Feb-2021 14:18:58 UTC] PHP Fatal error:  Cannot use Auth as Auth because the name is already in use in /home/ysb5nvstyita/public_html/stocks/app/Http/Controllers/Dashboard/Client/OrderController.php on line 18

@@ -1,0 +1,12 @@
+[02-Jan-2021 09:55:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ysb5nvstyita/public_html/stocks/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ysb5nvstyita/public_html/stocks/config/database.php on line 18
+[02-Jan-2021 09:56:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ysb5nvstyita/public_html/stocks/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ysb5nvstyita/public_html/stocks/config/database.php on line 18
+[02-Jan-2021 09:56:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ysb5nvstyita/public_html/stocks/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ysb5nvstyita/public_html/stocks/config/database.php on line 18
